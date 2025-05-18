@@ -14,5 +14,4 @@ parser.ipynb -- for extracting data from Chronicling America
 
 rhetorical_analysis.ipynb -- for processing and analysing extracted data
 
-# Visualization
-The repository contains code for visualizing processed data -- visualization.ipynb
+visualization.ipynb -- for visualizing processed data
