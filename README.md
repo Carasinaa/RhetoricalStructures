@@ -11,6 +11,7 @@ The repository contains one data sample of 50 news papers published in january o
 The repository contains following files:
 
 parser.ipynb -- for extracting data from Chronicling America
+
 rhetorical_analysis.ipynb -- for processing and analysing extracted data
 
 # Visualization
