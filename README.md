@@ -63,4 +63,4 @@ The repository contains following files:
 
 [rhetorical_analysis.ipynb](https://github.com/Carasinaa/RhetoricalStructures/blob/main/rhetorical_analysis.ipynb) -- for processing and analysing extracted data
 
-[visualization.ipynb]() -- for visualizing processed data
+[visualization.ipynb](https://github.com/Carasinaa/RhetoricalStructures/blob/main/visualization.ipynb) -- for visualizing processed data
